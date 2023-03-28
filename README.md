@@ -11,9 +11,9 @@ created time : 2023.2.16  brief : just to save my code
 
 硬件资源：STM32F103C8T6最小系统板、ASR-PRO语音模块资料、HC05蓝牙模块、0.96OLED、小喇叭、按键
 
-<img src="./img/1.jpg" width = "200" height = "200" alt="展示图1" align=center />
-<img src="./img/2.jpg" width = "200" height = "200" alt="展示图2" align=center />
-<img src="./img/3.jpg" width = "200" height = "200" alt="展示图3" align=center />
+<img src="./img/1.jpg" width = "200" height = "150" alt="展示图1" align=center />
+<img src="./img/2.jpg" width = "200" height = "150" alt="展示图2" align=center />
+<img src="./img/3.jpg" width = "200" height = "420" alt="展示图3" align=center />
 
 
 1：多功能数字时钟
